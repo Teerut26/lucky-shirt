@@ -1,0 +1,407 @@
+{
+  "data": [
+    {
+      "dayEn": "Monday",
+      "dayTh": "จันทร์",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "เขียว",
+              "hex": "#729C30"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ม่วง",
+              "hex": "#9242AF"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ฟ้า",
+              "hex": "#05B1CB"
+            },
+            {
+              "name": "นํ้าเงินสด",
+              "hex": "#015CCB"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "แดง",
+              "hex": "#FE0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Tuesday",
+      "dayTh": "อังคาร",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ม่วง",
+              "hex": "#9242AF"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ส้ม",
+              "hex": "#F79920"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "แดง",
+              "hex": "#FE0000"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "เหลือง",
+              "hex": "#F6FA58"
+            },
+            {
+              "name": "ขาว",
+              "hex": "#FFFFFF"
+            },
+            {
+              "name": "ครีม",
+              "hex": "#E6D8CA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Wednesday",
+      "dayTh": "พุธ",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ส้ม",
+              "hex": "#F79920"
+            },
+            {
+              "name": "แสด",
+              "hex": "#F79920"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ดำ",
+              "hex": "#000000"
+            },
+            {
+              "name": "นํ้าตาล",
+              "hex": "#A09F6B"
+            },
+            {
+              "name": "เทา",
+              "hex": "#60605F"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "เหลือง",
+              "hex": "#FCFF37"
+            },
+            {
+              "name": "ขาว",
+              "hex": "#FFFFFF"
+            },
+            {
+              "name": "ครีม",
+              "hex": "#E7D9CA"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "ชมพู",
+              "hex": "#FFC0CB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Thursday",
+      "dayTh": "พฤหัส",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ฟ้า",
+              "hex": "#00B4CC"
+            },
+            {
+              "name": "นํ้าเงินสด",
+              "hex": "#005DCB"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "แดง",
+              "hex": "#FE0000"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "เขียว",
+              "hex": "#729C30"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "ม่วง",
+              "hex": "#9242AF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Friday",
+      "dayTh": "ศุกร์",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "เหลือง",
+              "hex": "#FEFF33"
+            },
+            {
+              "name": "ขาว",
+              "hex": "#FFFFFF"
+            },
+            {
+              "name": "ครีม",
+              "hex": "#E8D7CA"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ชมพู",
+              "hex": "#FFC0CB"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ส้ม",
+              "hex": "#F79920"
+            },
+            {
+              "name": "แสด",
+              "hex": "#F79920"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "ดำ",
+              "hex": "#000000"
+            },
+            {
+              "name": "นํ้าตาล",
+              "hex": "#A09F6B"
+            },
+            {
+              "name": "เทา",
+              "hex": "#60605F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Saturday",
+      "dayTh": "เสาร์",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ดำ",
+              "hex": "#000000"
+            },
+            {
+              "name": "นํ้าตาล",
+              "hex": "#A09F6B"
+            },
+            {
+              "name": "เทา",
+              "hex": "#60605F"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ฟ้า",
+              "hex": "#00B4CC"
+            },
+            {
+              "name": "นํ้าเงินสด",
+              "hex": "#005DCB"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ชมพู",
+              "hex": "#FFC0CB"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "เขียว",
+              "hex": "#729C30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayEn": "Sunday",
+      "dayTh": "อาทิตย์",
+      "colors": [
+        {
+          "category": "เดช อำนาจ สิทธิ์",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ชมพู",
+              "hex": "#FFC0CB"
+            }
+          ]
+        },
+        {
+          "category": "ศรี (ศิริมงคล) โชคลาภ เงินทอง",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "เขียว",
+              "hex": "#729C30"
+            }
+          ]
+        },
+        {
+          "category": "มนตรี ผู้อุปถัมภ์ช่วยเหลือ",
+          "isNegative": false,
+          "colors": [
+            {
+              "name": "ดำ",
+              "hex": "#808080"
+            },
+            {
+              "name": "นํ้าตาล",
+              "hex": "#808080"
+            },
+            {
+              "name": "เทา",
+              "hex": "#808080"
+            }
+          ]
+        },
+        {
+          "category": "กาลกิณี อัปโชค ไม่ดี",
+          "isNegative": true,
+          "colors": [
+            {
+              "name": "ฟ้า",
+              "hex": "#00B4CC"
+            },
+            {
+              "name": "นํ้าเงินสด",
+              "hex": "#005DCB"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "latestUpdate": "2024-12-25"
+}

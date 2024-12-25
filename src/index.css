@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Noto Sans Thai";
+  src: url("/fonts/Noto_Sans_Thai/NotoSansThai-VariableFont_wdth,wght.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Noto Sans Thai", sans-serif;
+}
